@@ -1,0 +1,5 @@
+Sib. #	name	school	height	English	Math	Science	SWskills
+1st	Sally	Biola	157	97	89	88	C++
+2nd	David	UCI	173	78	100	98	Python
+3rd	Daniel	Navy	175	95	78	94	Java
+4th	Peter	Emery	130	100	97	97	Swift
